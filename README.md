@@ -19,15 +19,15 @@ Com um background sólido em **Redes de Computadores** e atualmente cursando **A
 
 ## 🛠 Tecnologias & Ferramentas
 
-### 💻 Linguagens de Programação
+### 🌟 Principais Tecnologias (Maior Domínio)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 💻 Outras Linguagens
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 🗄️ Banco de Dados
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### ☁️ DevOps & Infraestrutura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -42,11 +42,21 @@ Com um background sólido em **Redes de Computadores** e atualmente cursando **A
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramon-leandro&show_icons=true&theme=radial&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-leandro&layout=compact&langs_count=7&theme=radial" />
+  <!-- Card de Dias Consecutivos de Code (Streak Stats - Super Estável) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramon-Leandro&theme=radial" alt="Ramon's GitHub Streak" />
+  
+  <!-- Card de Gráfico de Contribuições Nativas (Nunca Cai) -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ramon-Leandro&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Gráfico de atividade das últimas semanas -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramon-Leandro&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Gráfico de atividade" />
 </div>
 
 ---
